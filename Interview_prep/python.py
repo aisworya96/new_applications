@@ -1,4 +1,4 @@
-import sys
+import sys, random
 
 print(sys.version)
 
@@ -32,4 +32,7 @@ def myfunc():
 myfunc()
 
 print("Python is " + x, y)
+
+print(random.randrange(1, 10))
+
 
