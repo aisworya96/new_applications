@@ -8,5 +8,11 @@ for i in range (1, n+1):
     fact *= i
 print(fact)
 
+# unpack a collection
 
+fruits = ["Apple", "orange", "banana"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
 
