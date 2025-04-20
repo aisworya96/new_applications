@@ -38,6 +38,10 @@ print(random.randrange(1, 10))
 # slicing string
 b = "Aisworya, Panda!"
 print(b[1:5])
+# negative indexing
+
+b = "Aisworya, Panda!"
+print(b[-5:-1])
 
 
 
