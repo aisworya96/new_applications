@@ -35,4 +35,9 @@ print("Python is " + x, y)
 
 print(random.randrange(1, 10))
 
+# slicing string
+b = "Aisworya, Panda!"
+print(b[1:5])
+
+
 
