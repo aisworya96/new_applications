@@ -15,4 +15,6 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+# output multiple variable separated by a comma
+print(x, y, z)
 
