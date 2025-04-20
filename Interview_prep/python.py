@@ -23,10 +23,13 @@ print(x, y, z)
 x = "awesome"
 
 def myfunc():
+    global y
+    y = "Dezy"
     x = "fantastic"
-    print("Python is " + x)
+    y = "Aisworya"
+    print("Python is " + x, y)
 
 myfunc()
 
-print("Python is " + x)
+print("Python is " + x, y)
 
