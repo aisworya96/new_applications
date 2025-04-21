@@ -43,5 +43,7 @@ print(b[1:5])
 b = "Aisworya, Panda!"
 print(b[-5:-1])
 
+a = "Aisworya Panda"
+print(a.upper())
 
 
