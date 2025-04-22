@@ -49,5 +49,10 @@ a = "Aisworya Panda"
 print(a.upper())
 print(a.lower())
 
+# remove white space, before and after the actual text
+
+p= " Hello, people ! "
+print(p.strip())
+
 
 
