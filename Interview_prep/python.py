@@ -37,7 +37,9 @@ print(random.randrange(1, 10))
 
 # slicing string
 b = "Aisworya, Panda!"
+c = "Dezy Aisworya Panda"
 print(b[1:5])
+print(c[4:8])
 # negative indexing
 
 b = "Aisworya, Panda!"
@@ -45,5 +47,7 @@ print(b[-5:-1])
 
 a = "Aisworya Panda"
 print(a.upper())
+print(a.lower())
+
 
 
