@@ -64,7 +64,12 @@ print(c)
 
 age = 18
 recent = f"My name is Aisworya Panda, I am {age}"
+recent1 = "My name is \"Dezy\" Aisworya Panda, I am {age}"
 print(recent)
 
 
+# function can create a boolean
 
+def myfunction():
+    return True
+print(myfunction())
