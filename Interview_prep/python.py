@@ -53,6 +53,13 @@ print(a.lower())
 
 p= " Hello, people ! "
 print(p.strip())
+print(p.replace("H", "A"))
+
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
+
 
 
 
