@@ -60,6 +60,11 @@ b = "World"
 c = a + " " + b
 print(c)
 
+# F-STRING
+
+age = 18
+recent = f"My name is Aisworya Panda, I am {age}"
+print(recent)
 
 
 
