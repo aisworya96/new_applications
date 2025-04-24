@@ -18,6 +18,7 @@ print(z)
 # output multiple variable separated by a comma
 print(x, y, z)
 
+
 # global and local variable
 
 x = "awesome"
